@@ -1,0 +1,8 @@
+,ID_Sample,Sample Name,ID_Analyses,investigation type,geographic location (longitude),geographic location (depth),"geographic location (country and/or sea,region)",collection date,environment (biome),environment (feature),environment (material),NCBI sample classification,instrument model
+0,SRS490311,Generic sample from soil_metagenome,MGYA00041622,metagenome,51.56:9.89,0.65,Germany,13.01.2010,cropland,field,plough_layer_soil,410658,454 GS FLX Titanium
+1,SRS490312,Generic sample from soil_metagenome,MGYA00041621,metagenome,51.56:9.89,0.35,Germany,13.01.2010,cropland,field,subsoil,410658,454 GS FLX Titanium
+2,SRS490313,Generic sample from soil_metagenome,MGYA00041620,metagenome,51.56:9.89,0.1,Germany,13.01.2010,cropland,field,root,410658,454 GS FLX Titanium
+3,SRS490314,Generic sample from soil_metagenome,MGYA00041619,metagenome,51.56:9.89,0.1,Germany,13.01.2010,cropland,field,rhizosphere_soil,410658,454 GS FLX Titanium
+4,SRS488339,Generic sample from soil_metagenome,MGYA00041625,metagenome,51.56:9.89,0.35,Germany,13.01.2010,cropland,field,seepage_water_0.35,410658,454 GS FLX Titanium
+5,SRS490309,Generic sample from soil_metagenome,MGYA00041624,metagenome,51.56:9.89,0.65,Germany,13.01.2010,cropland,field,seepage_water_0.65,410658,454 GS FLX Titanium
+6,SRS490310,Generic sample from soil_metagenome,MGYA00041623,metagenome,51.56:9.89,0.1,Germany,13.01.2010,cropland,field,top_soil,410658,454 GS FLX Titanium
