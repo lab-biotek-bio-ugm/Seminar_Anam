@@ -1,0 +1,647 @@
+,ID_Sample,Sample Name,ID_Analyses,geographic location (longitude),"geographic location (country and/or sea,region)",environment (biome),environment (feature),environment (material),environmental package,elevation,geographic location (latitude),instrument model,ENA checklist,last update date,host,host scientific name
+0,ERS1300624,control sample 1BLANK,MGYA00261636,-105.27,GAZ:United States of America;USA:CO:Boulder,urban biome,research facility,sterile water,misc environment,1624.0,40.015,Illumina HiSeq 2000,ERC000011,2016-08-19,control,metagenome
+1,ERS1300625,control sample 2BLANK,MGYA00261637,-105.27,GAZ:United States of America;USA:CO:Boulder,urban biome,research facility,sterile water,misc environment,1624.0,40.015,Illumina HiSeq 2000,ERC000011,2016-08-19,control,metagenome
+2,ERS1300626,control sample 3BLANK,MGYA00261638,-105.27,GAZ:United States of America;USA:CO:Boulder,urban biome,research facility,sterile water,misc environment,1624.0,40.015,Illumina HiSeq 2000,ERC000011,2016-08-19,control,metagenome
+3,ERS1300627,control sample 4BLANK,MGYA00261639,-105.27,GAZ:United States of America;USA:CO:Boulder,urban biome,research facility,sterile water,misc environment,1624.0,40.015,Illumina HiSeq 2000,ERC000011,2016-08-19,control,metagenome
+4,ERS1300628,control sample 5BLANK,MGYA00261640,-105.27,GAZ:United States of America;USA:CO:Boulder,urban biome,research facility,sterile water,misc environment,1624.0,40.015,Illumina HiSeq 2000,ERC000011,2016-08-19,control,metagenome
+5,ERS1300629,control sample 6BLANK,MGYA00261641,-105.27,GAZ:United States of America;USA:CO:Boulder,urban biome,research facility,sterile water,misc environment,1624.0,40.015,Illumina HiSeq 2000,ERC000011,2016-08-19,control,metagenome
+6,ERS1300630,Bulk soil unknown MS00001,MGYA00261642,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,bulk soil,soil metagenome
+7,ERS1300631,Bulk soil unknown MS00002,MGYA00261643,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,bulk soil,soil metagenome
+8,ERS1300632,Bulk soil unknown MS00003,MGYA00261644,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,bulk soil,soil metagenome
+9,ERS1300633,Bulk soil unknown MS00004,MGYA00261645,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,bulk soil,soil metagenome
+10,ERS1300634,Bulk soil unknown MS00005,MGYA00261646,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,bulk soil,soil metagenome
+11,ERS1300635,Bulk soil unknown MS00006,MGYA00261647,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,bulk soil,soil metagenome
+12,ERS1300636,Bulk soil unknown MS00007,MGYA00261648,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,bulk soil,soil metagenome
+13,ERS1300637,Bulk soil unknown MS00008,MGYA00261649,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,bulk soil,soil metagenome
+14,ERS1300638,Bulk soil unknown MS00009,MGYA00261650,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,bulk soil,soil metagenome
+15,ERS1300639,Bulk soil unknown MS00010,MGYA00261651,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,bulk soil,soil metagenome
+16,ERS1300640,Bulk soil unknown MS00011,MGYA00261652,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+17,ERS1300641,Bulk soil Nipponbare MS00012,MGYA00261653,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+18,ERS1300642,Bulk soil Nipponbare MS00013,MGYA00261654,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+19,ERS1300643,Bulk soil Nipponbare MS00014,MGYA00261655,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+20,ERS1300644,Bulk soil Nipponbare MS00015,MGYA00261656,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+21,ERS1300645,Bulk soil Nipponbare MS00016,MGYA00261657,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+22,ERS1300646,Bulk soil Nipponbare MS00017,MGYA00261658,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+23,ERS1300647,Bulk soil Nipponbare MS00018,MGYA00261659,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+24,ERS1300648,Bulk soil Nipponbare MS00019,MGYA00261660,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+25,ERS1300649,Bulk soil Nipponbare MS00020,MGYA00261661,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+26,ERS1300650,Bulk soil Nipponbare MS00021,MGYA00261662,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+27,ERS1300651,Bulk soil 93-11 MS00022,MGYA00261663,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+28,ERS1300652,Bulk soil 93-11 MS00023,MGYA00261664,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+29,ERS1300653,Bulk soil 93-11 MS00024,MGYA00261665,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+30,ERS1300654,Bulk soil 93-11 MS00025,MGYA00261666,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+31,ERS1300655,Bulk soil 93-11 MS00026,MGYA00261667,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+32,ERS1300656,Bulk soil 93-11 MS00027,MGYA00261668,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+33,ERS1300657,Bulk soil 93-11 MS00028,MGYA00261669,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+34,ERS1300658,Bulk soil 93-11 MS00029,MGYA00261670,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+35,ERS1300659,Bulk soil 93-11 MS00030,MGYA00261671,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+36,ERS1300660,Bulk soil kasalath MS00031,MGYA00261672,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+37,ERS1300661,Bulk soil kasalath MS00032,MGYA00261673,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+38,ERS1300662,Bulk soil kasalath MS00033,MGYA00261674,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+39,ERS1300663,Bulk soil kasalath MS00034,MGYA00261675,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+40,ERS1300664,Bulk soil kasalath MS00035,MGYA00261676,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+41,ERS1300665,Bulk soil kasalath MS00036,MGYA00261677,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+42,ERS1300666,Bulk soil kasalath MS00037,MGYA00261678,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+43,ERS1300667,Bulk soil kasalath MS00038,MGYA00261679,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+44,ERS1300668,Bulk soil kasalath MS00039,MGYA00261680,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+45,ERS1300669,Bulk soil kasalath MS00040,MGYA00261681,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+46,ERS1300670,Bulk soil kasalath MS00041,MGYA00261682,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+47,ERS1300671,Bulk soil W106 MS00042,MGYA00261683,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+48,ERS1300672,Bulk soil W106 MS00043,MGYA00261684,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+49,ERS1300673,Bulk soil W106 MS00044,MGYA00261685,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+50,ERS1300674,Bulk soil W106 MS00045,MGYA00261686,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+51,ERS1300675,Bulk soil W106 MS00046,MGYA00261687,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+52,ERS1300676,Bulk soil W106 MS00047,MGYA00261688,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+53,ERS1300677,Bulk soil W106 MS00048,MGYA00261689,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+54,ERS1300678,Bulk soil W106 MS00049,MGYA00261690,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+55,ERS1300679,Bulk soil W106 MS00050,MGYA00261691,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+56,ERS1300680,Bulk soil W106 MS00051,MGYA00261692,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+57,ERS1300681,Bulk soil W1514 MS00052,MGYA00261693,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+58,ERS1300682,Bulk soil W1514 MS00053,MGYA00261694,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+59,ERS1300683,Bulk soil W1514 MS00054,MGYA00261695,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+60,ERS1300684,Bulk soil W1514 MS00055,MGYA00261696,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+61,ERS1300685,Bulk soil W1514 MS00056,MGYA00261697,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+62,ERS1300686,Bulk soil W1514 MS00057,MGYA00261698,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+63,ERS1300687,Bulk soil W1514 MS00058,MGYA00261699,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+64,ERS1300688,Bulk soil W1514 MS00059,MGYA00261700,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+65,ERS1300689,Bulk soil W1514 MS00060,MGYA00261701,138.937,Japan;GAZ:Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+66,ERS1300690,Bulk soil W1514 MS00061,MGYA00261702,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+67,ERS1300691,Bulk soil Nipponbare MS00062,MGYA00261703,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+68,ERS1300692,Bulk soil Nipponbare MS00063,MGYA00261704,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+69,ERS1300693,Bulk soil Nipponbare MS00064,MGYA00261705,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+70,ERS1300694,Bulk soil Nipponbare MS00065,MGYA00261706,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+71,ERS1300695,Bulk soil Nipponbare MS00066,MGYA00261707,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+72,ERS1300696,Bulk soil Nipponbare MS00067,MGYA00261708,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+73,ERS1300697,Bulk soil Nipponbare MS00068,MGYA00261709,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+74,ERS1300698,Bulk soil Nipponbare MS00069,MGYA00261710,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+75,ERS1300699,Bulk soil Nipponbare MS00070,MGYA00261711,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+76,ERS1300700,Bulk soil Nipponbare MS00071,MGYA00261712,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+77,ERS1300701,Bulk soil Nipponbare MS00072,MGYA00261713,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+78,ERS1300702,Bulk soil Nipponbare MS00073,MGYA00261714,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+79,ERS1300703,Bulk soil Nipponbare MS00074,MGYA00261715,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+80,ERS1300704,Bulk soil Nipponbare MS00075,MGYA00261716,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+81,ERS1300705,Bulk soil Nipponbare MS00076,MGYA00261717,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+82,ERS1300706,Bulk soil Nipponbare MS00077,MGYA00261718,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+83,ERS1300707,Bulk soil Nipponbare MS00078,MGYA00261719,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+84,ERS1300708,Bulk soil Nipponbare MS00079,MGYA00261720,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+85,ERS1300709,Bulk soil Nipponbare MS00080,MGYA00261721,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+86,ERS1300710,Bulk soil Nipponbare MS00081,MGYA00261722,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+87,ERS1300711,Bulk soil 93-11 MS00082,MGYA00261723,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+88,ERS1300712,Bulk soil 93-11 MS00083,MGYA00261724,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+89,ERS1300713,Bulk soil 93-11 MS00084,MGYA00261725,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+90,ERS1300714,Bulk soil 93-11 MS00085,MGYA00261726,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+91,ERS1300715,Bulk soil 93-11 MS00086,MGYA00261727,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+92,ERS1300716,Bulk soil 93-11 MS00087,MGYA00261728,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+93,ERS1300717,Bulk soil 93-11 MS00088,MGYA00261729,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+94,ERS1300718,Bulk soil 93-11 MS00089,MGYA00261730,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+95,ERS1300719,Bulk soil 93-11 MS00090,MGYA00261731,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+96,ERS1300720,Bulk soil 93-11 MS00091,MGYA00261732,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+97,ERS1300721,Bulk soil kasalath MS00092,MGYA00261733,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+98,ERS1300722,Bulk soil kasalath MS00093,MGYA00261734,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+99,ERS1300723,Bulk soil kasalath MS00094,MGYA00261735,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+100,ERS1300724,Bulk soil kasalath MS00095,MGYA00261736,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+101,ERS1300725,Bulk soil kasalath MS00096,MGYA00261737,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+102,ERS1300726,Bulk soil kasalath MS00097,MGYA00261738,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+103,ERS1300727,Bulk soil kasalath MS00098,MGYA00261739,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+104,ERS1300728,Bulk soil kasalath MS00099,MGYA00261740,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+105,ERS1300729,Bulk soil kasalath MS00100,MGYA00261741,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+106,ERS1300730,Bulk soil kasalath MS00101,MGYA00261742,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+107,ERS1300731,Bulk soil W106 MS00102,MGYA00261743,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+108,ERS1300732,Bulk soil W106 MS00103,MGYA00261744,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+109,ERS1300733,Bulk soil W106 MS00104,MGYA00261745,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+110,ERS1300734,Bulk soil W106 MS00105,MGYA00261746,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+111,ERS1300735,Bulk soil W106 MS00106,MGYA00261747,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+112,ERS1300736,Bulk soil W106 MS00107,MGYA00261748,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+113,ERS1300737,Bulk soil W106 MS00108,MGYA00261749,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+114,ERS1300738,Bulk soil W106 MS00109,MGYA00261750,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+115,ERS1300739,Bulk soil W106 MS00110,MGYA00261751,138.937,Japan;GAZ:Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+116,ERS1300740,Bulk soil W106 MS00111,MGYA00261752,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+117,ERS1300741,Bulk soil W1514 MS00112,MGYA00261753,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+118,ERS1300742,Bulk soil W1514 MS00113,MGYA00261754,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+119,ERS1300743,Bulk soil W1514 MS00114,MGYA00261755,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+120,ERS1300744,Bulk soil W1514 MS00115,MGYA00261756,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+121,ERS1300745,Bulk soil W1514 MS00116,MGYA00261757,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+122,ERS1300746,Bulk soil W1514 MS00117,MGYA00261758,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+123,ERS1300747,Bulk soil W1514 MS00118,MGYA00261759,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+124,ERS1300748,Bulk soil W1514 MS00119,MGYA00261760,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+125,ERS1300749,Bulk soil W1514 MS00120,MGYA00261761,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+126,ERS1300750,Bulk soil W1514 MS00121,MGYA00261762,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+127,ERS1300751,Bulk soil Nipponbare MS00122,MGYA00261763,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+128,ERS1300752,Bulk soil Nipponbare MS00123,MGYA00261764,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+129,ERS1300753,Bulk soil Nipponbare MS00124,MGYA00261765,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+130,ERS1300754,Bulk soil Nipponbare MS00125,MGYA00261766,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+131,ERS1300755,Bulk soil Nipponbare MS00126,MGYA00261767,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+132,ERS1300756,Bulk soil Nipponbare MS00127,MGYA00261768,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+133,ERS1300757,Bulk soil Nipponbare MS00128,MGYA00261769,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+134,ERS1300758,Bulk soil Nipponbare MS00129,MGYA00261770,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+135,ERS1300759,Bulk soil Nipponbare MS00130,MGYA00261771,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+136,ERS1300760,Bulk soil Nipponbare MS00131,MGYA00261772,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+137,ERS1300761,Bulk soil Nipponbare MS00132,MGYA00261773,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+138,ERS1300762,Bulk soil Nipponbare MS00133,MGYA00261774,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+139,ERS1300763,Bulk soil Nipponbare MS00134,MGYA00261775,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+140,ERS1300764,Bulk soil Nipponbare MS00135,MGYA00261776,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+141,ERS1300765,Bulk soil Nipponbare MS00136,MGYA00261777,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+142,ERS1300766,Bulk soil Nipponbare MS00137,MGYA00261778,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+143,ERS1300767,Bulk soil Nipponbare MS00138,MGYA00261779,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+144,ERS1300768,Bulk soil Nipponbare MS00139,MGYA00261780,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+145,ERS1300769,Bulk soil Nipponbare MS00140,MGYA00261781,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+146,ERS1300770,Bulk soil Nipponbare MS00141,MGYA00261782,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+147,ERS1300771,Bulk soil 93-11 MS00142,MGYA00261783,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+148,ERS1300772,Bulk soil 93-11 MS00143,MGYA00261784,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+149,ERS1300773,Bulk soil 93-11 MS00144,MGYA00261785,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+150,ERS1300774,Bulk soil 93-11 MS00145,MGYA00261786,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+151,ERS1300775,Bulk soil 93-11 MS00146,MGYA00261787,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+152,ERS1300776,Bulk soil 93-11 MS00147,MGYA00261788,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+153,ERS1300777,Bulk soil 93-11 MS00148,MGYA00261789,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+154,ERS1300778,Bulk soil 93-11 MS00149,MGYA00261790,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+155,ERS1300779,Bulk soil 93-11 MS00150,MGYA00261791,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+156,ERS1300780,Bulk soil 93-11 MS00151,MGYA00261792,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+157,ERS1300781,Bulk soil kasalath MS00152,MGYA00261793,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+158,ERS1300782,Bulk soil kasalath MS00153,MGYA00261794,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+159,ERS1300783,Bulk soil kasalath MS00154,MGYA00261795,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+160,ERS1300784,Bulk soil kasalath MS00155,MGYA00261796,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+161,ERS1300785,Bulk soil kasalath MS00156,MGYA00261797,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+162,ERS1300786,Bulk soil kasalath MS00157,MGYA00261798,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+163,ERS1300787,Bulk soil kasalath MS00158,MGYA00261799,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+164,ERS1300788,Bulk soil kasalath MS00159,MGYA00261800,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+165,ERS1300789,Bulk soil kasalath MS00160,MGYA00261801,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+166,ERS1300790,Bulk soil kasalath MS00161,MGYA00261802,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+167,ERS1300791,Bulk soil W106 MS00162,MGYA00261803,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+168,ERS1300792,Bulk soil W106 MS00163,MGYA00261804,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+169,ERS1300793,Bulk soil W106 MS00164,MGYA00261805,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+170,ERS1300794,Bulk soil W106 MS00165,MGYA00261806,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+171,ERS1300795,Bulk soil W106 MS00166,MGYA00261807,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+172,ERS1300796,Bulk soil W106 MS00167,MGYA00261808,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+173,ERS1300797,Bulk soil W106 MS00168,MGYA00261809,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+174,ERS1300798,Bulk soil W106 MS00169,MGYA00261810,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+175,ERS1300799,Bulk soil W106 MS00170,MGYA00261811,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+176,ERS1300800,Bulk soil W106 MS00171,MGYA00261812,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+177,ERS1300801,Bulk soil W1514 MS00172,MGYA00261813,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+178,ERS1300802,Bulk soil W1514 MS00173,MGYA00261814,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+179,ERS1300803,Bulk soil W1514 MS00174,MGYA00261815,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+180,ERS1300804,Bulk soil W1514 MS00175,MGYA00261816,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+181,ERS1300805,Bulk soil W1514 MS00176,MGYA00261817,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+182,ERS1300806,Bulk soil W1514 MS00177,MGYA00261818,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+183,ERS1300807,Bulk soil W1514 MS00178,MGYA00261819,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+184,ERS1300808,Bulk soil W1514 MS00179,MGYA00261820,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+185,ERS1300809,Bulk soil W1514 MS00180,MGYA00261821,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+186,ERS1300810,Bulk soil W1514 MS00181,MGYA00261822,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+187,ERS1300811,Bulk soil Nipponbare MS00182,MGYA00261823,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+188,ERS1300812,Bulk soil Nipponbare MS00183,MGYA00261824,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+189,ERS1300813,Bulk soil Nipponbare MS00184,MGYA00261825,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+190,ERS1300814,Bulk soil Nipponbare MS00185,MGYA00261826,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+191,ERS1300815,Bulk soil Nipponbare MS00186,MGYA00261827,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+192,ERS1300816,Bulk soil Nipponbare MS00187,MGYA00261828,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+193,ERS1300817,Bulk soil Nipponbare MS00188,MGYA00261829,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+194,ERS1300818,Bulk soil Nipponbare MS00189,MGYA00261830,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+195,ERS1300819,Bulk soil Nipponbare MS00190,MGYA00261831,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+196,ERS1300820,Bulk soil Nipponbare MS00191,MGYA00261832,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+197,ERS1300821,Bulk soil Nipponbare MS00192,MGYA00261833,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+198,ERS1300822,Bulk soil Nipponbare MS00193,MGYA00261834,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+199,ERS1300823,Bulk soil Nipponbare MS00194,MGYA00261835,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+200,ERS1300824,Bulk soil Nipponbare MS00195,MGYA00261836,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+201,ERS1300825,Bulk soil Nipponbare MS00196,MGYA00261837,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+202,ERS1300826,Bulk soil Nipponbare MS00197,MGYA00261838,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+203,ERS1300827,Bulk soil Nipponbare MS00198,MGYA00261839,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+204,ERS1300828,Bulk soil Nipponbare MS00199,MGYA00261840,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+205,ERS1300829,Bulk soil Nipponbare MS00200,MGYA00261841,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+206,ERS1300830,Bulk soil Nipponbare MS00201,MGYA00261842,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+207,ERS1300831,Bulk soil 93-11 MS00202,MGYA00261843,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+208,ERS1300832,Bulk soil 93-11 MS00203,MGYA00261844,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+209,ERS1300833,Bulk soil 93-11 MS00204,MGYA00261845,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+210,ERS1300834,Bulk soil 93-11 MS00205,MGYA00261846,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+211,ERS1300835,Bulk soil 93-11 MS00206,MGYA00261847,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+212,ERS1300836,Bulk soil 93-11 MS00207,MGYA00261848,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+213,ERS1300837,Bulk soil 93-11 MS00208,MGYA00261849,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+214,ERS1300838,Bulk soil 93-11 MS00209,MGYA00261850,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+215,ERS1300839,Bulk soil 93-11 MS00210,MGYA00261851,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+216,ERS1300840,Bulk soil 93-11 MS00211,MGYA00261852,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+217,ERS1300841,Bulk soil kasalath MS00212,MGYA00261853,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+218,ERS1300842,Bulk soil kasalath MS00213,MGYA00261854,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+219,ERS1300843,Bulk soil kasalath MS00214,MGYA00261855,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+220,ERS1300844,Bulk soil kasalath MS00215,MGYA00261856,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+221,ERS1300845,Bulk soil kasalath MS00216,MGYA00261857,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+222,ERS1300846,Bulk soil kasalath MS00217,MGYA00261858,138.937,Japan;GAZ:Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+223,ERS1300847,Bulk soil kasalath MS00218,MGYA00261859,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+224,ERS1300848,Bulk soil kasalath MS00219,MGYA00261860,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+225,ERS1300849,Bulk soil kasalath MS00220,MGYA00261861,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+226,ERS1300850,Bulk soil kasalath MS00221,MGYA00261862,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+227,ERS1300851,Bulk soil W106 MS00222,MGYA00261863,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+228,ERS1300852,Bulk soil W106 MS00223,MGYA00261864,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+229,ERS1300853,Bulk soil W106 MS00224,MGYA00261865,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+230,ERS1300854,Bulk soil W106 MS00225,MGYA00261866,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+231,ERS1300855,Bulk soil W106 MS00226,MGYA00261867,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+232,ERS1300856,Bulk soil W106 MS00227,MGYA00261868,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+233,ERS1300857,Bulk soil W106 MS00228,MGYA00261869,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+234,ERS1300858,Bulk soil W106 MS00229,MGYA00261870,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+235,ERS1300859,Bulk soil W106 MS00230,MGYA00261871,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+236,ERS1300860,Bulk soil W106 MS00231,MGYA00261872,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+237,ERS1300861,Bulk soil W1514 MS00232,MGYA00261873,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+238,ERS1300862,Bulk soil W1514 MS00233,MGYA00261874,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+239,ERS1300863,Bulk soil W1514 MS00234,MGYA00261875,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+240,ERS1300864,Bulk soil W1514 MS00235,MGYA00261876,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+241,ERS1300865,Bulk soil W1514 MS00236,MGYA00261877,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+242,ERS1300866,Bulk soil W1514 MS00237,MGYA00261878,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+243,ERS1300867,Bulk soil W1514 MS00238,MGYA00261879,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+244,ERS1300868,Bulk soil W1514 MS00239,MGYA00261880,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+245,ERS1300869,Bulk soil W1514 MS00240,MGYA00261881,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+246,ERS1300870,Bulk soil W1514 MS00241,MGYA00261882,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+247,ERS1300871,Bulk soil Nipponbare MS00242,MGYA00261883,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+248,ERS1300872,Bulk soil Nipponbare MS00243,MGYA00261884,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+249,ERS1300873,Bulk soil Nipponbare MS00244,MGYA00261885,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+250,ERS1300874,Bulk soil Nipponbare MS00245,MGYA00261886,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+251,ERS1300875,Bulk soil Nipponbare MS00246,MGYA00261887,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+252,ERS1300876,Bulk soil Nipponbare MS00247,MGYA00261888,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+253,ERS1300877,Bulk soil Nipponbare MS00248,MGYA00261889,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+254,ERS1300878,Bulk soil Nipponbare MS00249,MGYA00261890,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+255,ERS1300879,Bulk soil Nipponbare MS00250,MGYA00261891,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+256,ERS1300880,Bulk soil Nipponbare MS00251,MGYA00261892,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+257,ERS1300881,Bulk soil Nipponbare MS00252,MGYA00261893,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+258,ERS1300882,Bulk soil Nipponbare MS00253,MGYA00261894,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+259,ERS1300883,Bulk soil Nipponbare MS00254,MGYA00261895,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+260,ERS1300884,Bulk soil Nipponbare MS00255,MGYA00261896,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+261,ERS1300885,Bulk soil Nipponbare MS00256,MGYA00261897,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+262,ERS1300886,Bulk soil Nipponbare MS00257,MGYA00261898,138.937,Japan;GAZ:Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+263,ERS1300887,Bulk soil Nipponbare MS00258,MGYA00261899,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+264,ERS1300888,Bulk soil Nipponbare MS00259,MGYA00261900,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+265,ERS1300889,Bulk soil Nipponbare MS00260,MGYA00261901,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+266,ERS1300890,Bulk soil Nipponbare MS00261,MGYA00261902,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+267,ERS1300891,Bulk soil Nipponbare MS00262,MGYA00261903,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+268,ERS1300892,Bulk soil Nipponbare MS00263,MGYA00261904,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+269,ERS1300893,Bulk soil Nipponbare MS00264,MGYA00261905,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+270,ERS1300894,Bulk soil Nipponbare MS00265,MGYA00261906,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+271,ERS1300895,Bulk soil Nipponbare MS00266,MGYA00261907,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+272,ERS1300896,Bulk soil Nipponbare MS00267,MGYA00261908,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+273,ERS1300897,Bulk soil Nipponbare MS00268,MGYA00261909,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+274,ERS1300898,Bulk soil Nipponbare MS00269,MGYA00261910,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+275,ERS1300899,Bulk soil Nipponbare MS00270,MGYA00261911,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+276,ERS1300900,Bulk soil Nipponbare MS00271,MGYA00261912,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+277,ERS1300901,Bulk soil Nipponbare MS00272,MGYA00261913,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+278,ERS1300902,Bulk soil Nipponbare MS00273,MGYA00261914,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+279,ERS1300903,Bulk soil Nipponbare MS00274,MGYA00261915,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+280,ERS1300904,Bulk soil Nipponbare MS00275,MGYA00261916,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+281,ERS1300905,Bulk soil Nipponbare MS00276,MGYA00261917,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+282,ERS1300906,Bulk soil Nipponbare MS00277,MGYA00261918,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+283,ERS1300907,Bulk soil Nipponbare MS00278,MGYA00261919,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+284,ERS1300908,Bulk soil Nipponbare MS00279,MGYA00261920,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+285,ERS1300909,Bulk soil Nipponbare MS00280,MGYA00261921,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+286,ERS1300910,Bulk soil Nipponbare MS00281,MGYA00261922,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+287,ERS1300911,Bulk soil 93-11 MS00282,MGYA00261923,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+288,ERS1300912,Bulk soil 93-11 MS00283,MGYA00261924,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+289,ERS1300913,Bulk soil 93-11 MS00284,MGYA00261925,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+290,ERS1300914,Bulk soil 93-11 MS00285,MGYA00261926,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+291,ERS1300915,Bulk soil 93-11 MS00286,MGYA00261927,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+292,ERS1300916,Bulk soil 93-11 MS00287,MGYA00261928,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+293,ERS1300917,Bulk soil 93-11 MS00288,MGYA00261929,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+294,ERS1300918,Bulk soil 93-11 MS00289,MGYA00261930,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+295,ERS1300919,Bulk soil 93-11 MS00290,MGYA00261931,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+296,ERS1300920,Bulk soil 93-11 MS00291,MGYA00261932,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+297,ERS1300921,Bulk soil kasalath MS00292,MGYA00261933,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+298,ERS1300922,Bulk soil kasalath MS00293,MGYA00261934,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+299,ERS1300923,Bulk soil kasalath MS00294,MGYA00261935,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+300,ERS1300924,Bulk soil kasalath MS00295,MGYA00261936,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+301,ERS1300925,Bulk soil kasalath MS00296,MGYA00261937,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+302,ERS1300926,Bulk soil kasalath MS00297,MGYA00261938,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+303,ERS1300927,Bulk soil kasalath MS00298,MGYA00261939,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+304,ERS1300928,Bulk soil kasalath MS00299,MGYA00261940,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+305,ERS1300929,Bulk soil kasalath MS00300,MGYA00261941,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+306,ERS1300930,Bulk soil kasalath MS00301,MGYA00261942,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+307,ERS1300931,Bulk soil W106 MS00302,MGYA00261943,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+308,ERS1300932,Bulk soil W106 MS00303,MGYA00261944,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+309,ERS1300933,Bulk soil W106 MS00304,MGYA00261945,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+310,ERS1300934,Bulk soil W106 MS00305,MGYA00261946,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+311,ERS1300935,Bulk soil W106 MS00306,MGYA00261947,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+312,ERS1300936,Bulk soil W106 MS00307,MGYA00261948,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+313,ERS1300937,Bulk soil W106 MS00308,MGYA00261949,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+314,ERS1300938,Bulk soil W106 MS00309,MGYA00261950,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+315,ERS1300939,Bulk soil W106 MS00310,MGYA00261951,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+316,ERS1300940,Bulk soil W106 MS00311,MGYA00261952,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+317,ERS1300941,Bulk soil W1514 MS00312,MGYA00261953,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+318,ERS1300942,Bulk soil W1514 MS00313,MGYA00261954,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+319,ERS1300943,Bulk soil W1514 MS00314,MGYA00261955,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+320,ERS1300944,Bulk soil W1514 MS00315,MGYA00261956,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+321,ERS1300945,Bulk soil W1514 MS00316,MGYA00261957,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+322,ERS1300946,Bulk soil W1514 MS00317,MGYA00261958,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+323,ERS1300947,Bulk soil W1514 MS00318,MGYA00261959,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+324,ERS1300948,Bulk soil W1514 MS00319,MGYA00261960,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+325,ERS1300949,Bulk soil W1514 MS00320,MGYA00261961,138.937,GAZ:Japan;Japan,cropland biome,alluvial paddy field soil,soil,soil,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+326,ERS1300950,water unknown MS00321,MGYA00261962,138.937,GAZ:Japan;Japan,cropland biome,rice field,fresh water,fresh water,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+327,ERS1300951,water unknown MS00322,MGYA00261963,138.937,GAZ:Japan;Japan,cropland biome,rice field,fresh water,fresh water,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+328,ERS1300952,water unknown MS00323,MGYA00261964,138.937,GAZ:Japan;Japan,cropland biome,rice field,fresh water,fresh water,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+329,ERS1300953,water unknown MS00324,MGYA00261965,138.937,GAZ:Japan;Japan,cropland biome,rice field,fresh water,fresh water,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+330,ERS1300954,water unknown MS00325,MGYA00261966,138.937,GAZ:Japan;Japan,cropland biome,rice field,fresh water,fresh water,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+331,ERS1300955,water unknown MS00326,MGYA00261967,138.937,GAZ:Japan;Japan,cropland biome,rice field,fresh water,fresh water,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+332,ERS1300956,water unknown MS00327,MGYA00261968,138.937,GAZ:Japan;Japan,cropland biome,rice field,fresh water,fresh water,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+333,ERS1300957,water unknown MS00328,MGYA00261969,138.937,GAZ:Japan;Japan,cropland biome,rice field,fresh water,fresh water,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+334,ERS1300958,water unknown MS00329,MGYA00261970,138.937,GAZ:Japan;Japan,cropland biome,rice field,fresh water,fresh water,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+335,ERS1300959,water unknown MS00330,MGYA00261971,138.937,GAZ:Japan;Japan,cropland biome,rice field,fresh water,fresh water,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+336,ERS1300960,rhizosphere Nipponbare MS00331,MGYA00261972,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+337,ERS1300961,rhizosphere Nipponbare MS00332,MGYA00261973,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+338,ERS1300962,rhizosphere Nipponbare MS00333,MGYA00261974,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+339,ERS1300963,rhizosphere Nipponbare MS00334,MGYA00261975,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+340,ERS1300964,rhizosphere Nipponbare MS00335,MGYA00261976,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+341,ERS1300965,rhizosphere Nipponbare MS00336,MGYA00261977,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+342,ERS1300966,rhizosphere Nipponbare MS00337,MGYA00261978,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+343,ERS1300967,rhizosphere Nipponbare MS00338,MGYA00261979,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+344,ERS1300968,rhizosphere Nipponbare MS00339,MGYA00261980,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+345,ERS1300969,rhizosphere Nipponbare MS00340,MGYA00261981,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+346,ERS1300970,rhizosphere 93-11 MS00341,MGYA00261982,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+347,ERS1300971,rhizosphere 93-11 MS00342,MGYA00261983,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+348,ERS1300972,rhizosphere 93-11 MS00343,MGYA00261984,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+349,ERS1300973,rhizosphere 93-11 MS00344,MGYA00261985,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+350,ERS1300974,rhizosphere 93-11 MS00345,MGYA00261986,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+351,ERS1300975,rhizosphere 93-11 MS00346,MGYA00261987,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+352,ERS1300976,rhizosphere 93-11 MS00347,MGYA00261988,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+353,ERS1300977,rhizosphere 93-11 MS00348,MGYA00261989,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+354,ERS1300978,rhizosphere 93-11 MS00349,MGYA00261990,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+355,ERS1300979,rhizosphere 93-11 MS00350,MGYA00261991,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+356,ERS1300980,rhizosphere kasalath MS00351,MGYA00261992,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+357,ERS1300981,rhizosphere kasalath MS00352,MGYA00261993,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+358,ERS1300982,rhizosphere kasalath MS00353,MGYA00261994,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+359,ERS1300983,rhizosphere kasalath MS00354,MGYA00261995,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+360,ERS1300984,rhizosphere kasalath MS00355,MGYA00261996,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+361,ERS1300985,rhizosphere kasalath MS00356,MGYA00261997,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+362,ERS1300986,rhizosphere kasalath MS00357,MGYA00261998,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+363,ERS1300987,rhizosphere kasalath MS00358,MGYA00261999,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+364,ERS1300988,rhizosphere kasalath MS00359,MGYA00262000,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+365,ERS1300989,rhizosphere kasalath MS00360,MGYA00262001,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+366,ERS1300990,rhizosphere W106 MS00361,MGYA00262002,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+367,ERS1300991,rhizosphere W106 MS00362,MGYA00262003,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+368,ERS1300992,rhizosphere W106 MS00363,MGYA00262004,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+369,ERS1300993,rhizosphere W106 MS00364,MGYA00262005,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+370,ERS1300994,rhizosphere W106 MS00365,MGYA00262006,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+371,ERS1300995,rhizosphere W106 MS00366,MGYA00262007,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+372,ERS1300996,rhizosphere W106 MS00367,MGYA00262008,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+373,ERS1300997,rhizosphere W106 MS00368,MGYA00262009,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+374,ERS1300998,rhizosphere W106 MS00369,MGYA00262010,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+375,ERS1300999,rhizosphere W106 MS00370,MGYA00262011,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+376,ERS1301000,rhizosphere W1514 MS00371,MGYA00262012,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+377,ERS1301001,rhizosphere W1514 MS00372,MGYA00262013,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+378,ERS1301002,rhizosphere W1514 MS00373,MGYA00262014,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+379,ERS1301003,rhizosphere W1514 MS00374,MGYA00262015,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+380,ERS1301004,rhizosphere W1514 MS00375,MGYA00262016,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+381,ERS1301005,rhizosphere W1514 MS00376,MGYA00262017,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+382,ERS1301006,rhizosphere W1514 MS00377,MGYA00262018,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+383,ERS1301007,rhizosphere W1514 MS00378,MGYA00262019,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+384,ERS1301008,rhizosphere W1514 MS00379,MGYA00262020,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+385,ERS1301009,rhizosphere W1514 MS00380,MGYA00262021,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+386,ERS1301010,rhizosphere Nipponbare MS00381,MGYA00262022,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+387,ERS1301011,rhizosphere Nipponbare MS00382,MGYA00262023,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+388,ERS1301012,rhizosphere Nipponbare MS00383,MGYA00262024,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+389,ERS1301013,rhizosphere Nipponbare MS00384,MGYA00262025,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+390,ERS1301014,rhizosphere Nipponbare MS00385,MGYA00262026,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+391,ERS1301015,rhizosphere Nipponbare MS00386,MGYA00262027,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+392,ERS1301016,rhizosphere Nipponbare MS00387,MGYA00262028,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+393,ERS1301017,rhizosphere Nipponbare MS00388,MGYA00262029,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+394,ERS1301018,rhizosphere Nipponbare MS00389,MGYA00262030,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+395,ERS1301019,rhizosphere Nipponbare MS00390,MGYA00262031,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+396,ERS1301020,rhizosphere Nipponbare MS00391,MGYA00262032,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+397,ERS1301021,rhizosphere Nipponbare MS00392,MGYA00262033,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+398,ERS1301022,rhizosphere Nipponbare MS00393,MGYA00262034,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+399,ERS1301023,rhizosphere Nipponbare MS00394,MGYA00262035,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+400,ERS1301024,rhizosphere Nipponbare MS00395,MGYA00262036,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+401,ERS1301025,rhizosphere Nipponbare MS00396,MGYA00262037,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+402,ERS1301026,rhizosphere Nipponbare MS00397,MGYA00262038,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+403,ERS1301027,rhizosphere Nipponbare MS00398,MGYA00262039,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+404,ERS1301028,rhizosphere Nipponbare MS00399,MGYA00262040,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+405,ERS1301029,rhizosphere Nipponbare MS00400,MGYA00262041,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+406,ERS1301030,rhizosphere 93-11 MS00401,MGYA00262042,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+407,ERS1301031,rhizosphere 93-11 MS00402,MGYA00262043,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+408,ERS1301032,rhizosphere 93-11 MS00403,MGYA00262044,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+409,ERS1301033,rhizosphere 93-11 MS00404,MGYA00262045,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+410,ERS1301034,rhizosphere 93-11 MS00405,MGYA00262046,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+411,ERS1301035,rhizosphere 93-11 MS00406,MGYA00262047,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+412,ERS1301036,rhizosphere 93-11 MS00407,MGYA00262048,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+413,ERS1301037,rhizosphere 93-11 MS00408,MGYA00262049,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+414,ERS1301038,rhizosphere 93-11 MS00409,MGYA00262050,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+415,ERS1301039,rhizosphere 93-11 MS00410,MGYA00262051,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+416,ERS1301040,rhizosphere kasalath MS00411,MGYA00262052,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+417,ERS1301041,rhizosphere kasalath MS00412,MGYA00262053,138.937,Japan;GAZ:Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+418,ERS1301042,rhizosphere kasalath MS00413,MGYA00262054,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+419,ERS1301043,rhizosphere kasalath MS00414,MGYA00262055,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+420,ERS1301044,rhizosphere kasalath MS00415,MGYA00262056,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+421,ERS1301045,rhizosphere kasalath MS00416,MGYA00262057,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+422,ERS1301046,rhizosphere kasalath MS00417,MGYA00262058,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+423,ERS1301047,rhizosphere kasalath MS00418,MGYA00262059,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+424,ERS1301048,rhizosphere kasalath MS00419,MGYA00262060,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+425,ERS1301049,rhizosphere kasalath MS00420,MGYA00262061,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+426,ERS1301050,rhizosphere W106 MS00421,MGYA00262062,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+427,ERS1301051,rhizosphere W106 MS00422,MGYA00262063,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+428,ERS1301052,rhizosphere W106 MS00423,MGYA00262064,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+429,ERS1301053,rhizosphere W106 MS00424,MGYA00262065,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+430,ERS1301054,rhizosphere W106 MS00425,MGYA00262066,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+431,ERS1301055,rhizosphere W106 MS00426,MGYA00262067,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+432,ERS1301056,rhizosphere W106 MS00427,MGYA00262068,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+433,ERS1301057,rhizosphere W106 MS00428,MGYA00262069,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+434,ERS1301058,rhizosphere W106 MS00429,MGYA00262070,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+435,ERS1301059,rhizosphere W106 MS00430,MGYA00262071,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+436,ERS1301060,rhizosphere W1514 MS00431,MGYA00262072,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+437,ERS1301061,rhizosphere W1514 MS00432,MGYA00262073,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+438,ERS1301062,rhizosphere W1514 MS00433,MGYA00262074,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+439,ERS1301063,rhizosphere W1514 MS00434,MGYA00262075,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+440,ERS1301064,rhizosphere W1514 MS00435,MGYA00262076,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+441,ERS1301065,rhizosphere W1514 MS00436,MGYA00262077,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+442,ERS1301066,rhizosphere W1514 MS00437,MGYA00262078,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+443,ERS1301067,rhizosphere W1514 MS00438,MGYA00262079,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+444,ERS1301068,rhizosphere W1514 MS00439,MGYA00262080,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+445,ERS1301069,rhizosphere W1514 MS00440,MGYA00262081,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+446,ERS1301070,rhizosphere Nipponbare MS00441,MGYA00262082,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+447,ERS1301071,rhizosphere Nipponbare MS00442,MGYA00262083,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+448,ERS1301072,rhizosphere Nipponbare MS00443,MGYA00262084,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+449,ERS1301073,rhizosphere Nipponbare MS00444,MGYA00262085,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+450,ERS1301074,rhizosphere Nipponbare MS00445,MGYA00262086,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+451,ERS1301075,rhizosphere Nipponbare MS00446,MGYA00262087,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+452,ERS1301076,rhizosphere Nipponbare MS00447,MGYA00262088,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+453,ERS1301077,rhizosphere Nipponbare MS00448,MGYA00262089,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+454,ERS1301078,rhizosphere Nipponbare MS00449,MGYA00262090,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+455,ERS1301079,rhizosphere Nipponbare MS00450,MGYA00262091,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+456,ERS1301080,rhizosphere Nipponbare MS00451,MGYA00262092,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+457,ERS1301081,rhizosphere Nipponbare MS00452,MGYA00262093,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+458,ERS1301082,rhizosphere Nipponbare MS00453,MGYA00262094,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+459,ERS1301083,rhizosphere Nipponbare MS00454,MGYA00262095,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+460,ERS1301084,rhizosphere Nipponbare MS00455,MGYA00262096,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+461,ERS1301085,rhizosphere Nipponbare MS00456,MGYA00262097,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+462,ERS1301086,rhizosphere Nipponbare MS00457,MGYA00262098,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+463,ERS1301087,rhizosphere Nipponbare MS00458,MGYA00262099,138.937,Japan;GAZ:Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+464,ERS1301088,rhizosphere Nipponbare MS00459,MGYA00262100,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+465,ERS1301089,rhizosphere Nipponbare MS00460,MGYA00262101,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+466,ERS1301090,rhizosphere 93-11 MS00461,MGYA00262102,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+467,ERS1301091,rhizosphere 93-11 MS00462,MGYA00262103,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+468,ERS1301092,rhizosphere 93-11 MS00463,MGYA00262104,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+469,ERS1301093,rhizosphere 93-11 MS00464,MGYA00262105,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+470,ERS1301094,rhizosphere 93-11 MS00465,MGYA00262106,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+471,ERS1301095,rhizosphere 93-11 MS00466,MGYA00262107,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+472,ERS1301096,rhizosphere 93-11 MS00467,MGYA00262108,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+473,ERS1301097,rhizosphere 93-11 MS00468,MGYA00262109,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+474,ERS1301098,rhizosphere 93-11 MS00469,MGYA00262110,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+475,ERS1301099,rhizosphere 93-11 MS00470,MGYA00262111,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+476,ERS1301100,rhizosphere kasalath MS00471,MGYA00262112,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+477,ERS1301101,rhizosphere kasalath MS00472,MGYA00262113,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+478,ERS1301102,rhizosphere kasalath MS00473,MGYA00262114,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+479,ERS1301103,rhizosphere kasalath MS00474,MGYA00262115,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+480,ERS1301104,rhizosphere kasalath MS00475,MGYA00262116,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+481,ERS1301105,rhizosphere kasalath MS00476,MGYA00262117,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+482,ERS1301106,rhizosphere kasalath MS00477,MGYA00262118,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+483,ERS1301107,rhizosphere kasalath MS00478,MGYA00262119,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+484,ERS1301108,rhizosphere kasalath MS00479,MGYA00262120,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+485,ERS1301109,rhizosphere kasalath MS00480,MGYA00262121,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+486,ERS1301110,rhizosphere W106 MS00481,MGYA00262122,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+487,ERS1301111,rhizosphere W106 MS00482,MGYA00262123,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+488,ERS1301112,rhizosphere W106 MS00483,MGYA00262124,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+489,ERS1301113,rhizosphere W106 MS00484,MGYA00262125,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+490,ERS1301114,rhizosphere W106 MS00485,MGYA00262126,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+491,ERS1301115,rhizosphere W106 MS00486,MGYA00262127,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+492,ERS1301116,rhizosphere W106 MS00487,MGYA00262128,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+493,ERS1301117,rhizosphere W106 MS00488,MGYA00262129,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+494,ERS1301118,rhizosphere W106 MS00489,MGYA00262130,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+495,ERS1301119,rhizosphere W106 MS00490,MGYA00262131,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+496,ERS1301120,rhizosphere W1514 MS00491,MGYA00262132,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+497,ERS1301121,rhizosphere W1514 MS00492,MGYA00262133,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+498,ERS1301122,rhizosphere W1514 MS00493,MGYA00262134,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+499,ERS1301123,rhizosphere W1514 MS00494,MGYA00262135,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+500,ERS1301124,rhizosphere W1514 MS00495,MGYA00262136,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+501,ERS1301125,rhizosphere W1514 MS00496,MGYA00262137,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+502,ERS1301126,rhizosphere W1514 MS00497,MGYA00262138,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+503,ERS1301127,rhizosphere W1514 MS00498,MGYA00262139,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+504,ERS1301128,rhizosphere W1514 MS00499,MGYA00262140,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+505,ERS1301129,rhizosphere W1514 MS00500,MGYA00262141,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+506,ERS1301130,rhizosphere Nipponbare MS00501,MGYA00262142,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+507,ERS1301131,rhizosphere Nipponbare MS00502,MGYA00262143,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+508,ERS1301132,rhizosphere Nipponbare MS00503,MGYA00262144,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+509,ERS1301133,rhizosphere Nipponbare MS00504,MGYA00262145,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+510,ERS1301134,rhizosphere Nipponbare MS00505,MGYA00262146,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+511,ERS1301135,rhizosphere Nipponbare MS00506,MGYA00262147,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+512,ERS1301136,rhizosphere Nipponbare MS00507,MGYA00262148,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+513,ERS1301137,rhizosphere Nipponbare MS00508,MGYA00262149,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+514,ERS1301138,rhizosphere Nipponbare MS00509,MGYA00262150,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+515,ERS1301139,rhizosphere Nipponbare MS00510,MGYA00262151,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+516,ERS1301140,rhizosphere Nipponbare MS00511,MGYA00262152,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+517,ERS1301141,rhizosphere Nipponbare MS00512,MGYA00262153,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+518,ERS1301142,rhizosphere Nipponbare MS00513,MGYA00262154,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+519,ERS1301143,rhizosphere Nipponbare MS00514,MGYA00262155,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+520,ERS1301144,rhizosphere Nipponbare MS00515,MGYA00262156,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+521,ERS1301145,rhizosphere Nipponbare MS00516,MGYA00262157,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+522,ERS1301146,rhizosphere Nipponbare MS00517,MGYA00262158,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+523,ERS1301147,rhizosphere Nipponbare MS00518,MGYA00262159,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+524,ERS1301148,rhizosphere Nipponbare MS00519,MGYA00262160,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+525,ERS1301149,rhizosphere Nipponbare MS00520,MGYA00262161,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+526,ERS1301150,rhizosphere 93-11 MS00521,MGYA00262162,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+527,ERS1301151,rhizosphere 93-11 MS00522,MGYA00262163,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+528,ERS1301152,rhizosphere 93-11 MS00523,MGYA00262164,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+529,ERS1301153,rhizosphere 93-11 MS00524,MGYA00262165,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+530,ERS1301154,rhizosphere 93-11 MS00525,MGYA00262166,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+531,ERS1301155,rhizosphere 93-11 MS00526,MGYA00262167,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+532,ERS1301156,rhizosphere 93-11 MS00527,MGYA00262168,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+533,ERS1301157,rhizosphere 93-11 MS00528,MGYA00262169,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+534,ERS1301158,rhizosphere 93-11 MS00529,MGYA00262170,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+535,ERS1301159,rhizosphere 93-11 MS00530,MGYA00262171,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+536,ERS1301160,rhizosphere kasalath MS00531,MGYA00262172,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+537,ERS1301161,rhizosphere kasalath MS00532,MGYA00262173,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+538,ERS1301162,rhizosphere kasalath MS00533,MGYA00262174,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+539,ERS1301163,rhizosphere kasalath MS00534,MGYA00262175,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+540,ERS1301164,rhizosphere kasalath MS00535,MGYA00262176,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+541,ERS1301165,rhizosphere kasalath MS00536,MGYA00262177,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+542,ERS1301166,rhizosphere kasalath MS00537,MGYA00262178,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+543,ERS1301167,rhizosphere kasalath MS00538,MGYA00262179,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+544,ERS1301168,rhizosphere kasalath MS00539,MGYA00262180,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+545,ERS1301169,rhizosphere kasalath MS00540,MGYA00262181,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+546,ERS1301170,rhizosphere W106 MS00541,MGYA00262182,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+547,ERS1301171,rhizosphere W106 MS00542,MGYA00262183,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+548,ERS1301172,rhizosphere W106 MS00543,MGYA00262184,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+549,ERS1301173,rhizosphere W106 MS00544,MGYA00262185,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+550,ERS1301174,rhizosphere W106 MS00545,MGYA00262186,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+551,ERS1301175,rhizosphere W106 MS00546,MGYA00262187,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+552,ERS1301176,rhizosphere W106 MS00547,MGYA00262188,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+553,ERS1301177,rhizosphere W106 MS00548,MGYA00262189,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+554,ERS1301178,rhizosphere W106 MS00549,MGYA00262190,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+555,ERS1301179,rhizosphere W106 MS00550,MGYA00262191,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+556,ERS1301180,rhizosphere W1514 MS00551,MGYA00262192,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+557,ERS1301181,rhizosphere W1514 MS00552,MGYA00262193,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+558,ERS1301182,rhizosphere W1514 MS00553,MGYA00262194,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+559,ERS1301183,rhizosphere W1514 MS00554,MGYA00262195,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+560,ERS1301184,rhizosphere W1514 MS00555,MGYA00262196,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+561,ERS1301185,rhizosphere W1514 MS00556,MGYA00262197,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+562,ERS1301186,rhizosphere W1514 MS00557,MGYA00262198,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+563,ERS1301187,rhizosphere W1514 MS00558,MGYA00262199,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+564,ERS1301188,rhizosphere W1514 MS00559,MGYA00262200,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+565,ERS1301189,rhizosphere W1514 MS00560,MGYA00262201,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+566,ERS1301190,rhizosphere Nipponbare MS00561,MGYA00262202,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+567,ERS1301191,rhizosphere Nipponbare MS00562,MGYA00262203,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+568,ERS1301192,rhizosphere Nipponbare MS00563,MGYA00262204,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+569,ERS1301193,rhizosphere Nipponbare MS00564,MGYA00262205,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+570,ERS1301194,rhizosphere Nipponbare MS00565,MGYA00262206,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+571,ERS1301195,rhizosphere Nipponbare MS00566,MGYA00262207,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+572,ERS1301196,rhizosphere Nipponbare MS00567,MGYA00262208,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+573,ERS1301197,rhizosphere Nipponbare MS00568,MGYA00262209,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+574,ERS1301198,rhizosphere Nipponbare MS00569,MGYA00262210,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+575,ERS1301199,rhizosphere Nipponbare MS00570,MGYA00262211,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+576,ERS1301200,rhizosphere Nipponbare MS00571,MGYA00262212,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+577,ERS1301201,rhizosphere Nipponbare MS00572,MGYA00262213,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+578,ERS1301202,rhizosphere Nipponbare MS00573,MGYA00262214,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+579,ERS1301203,rhizosphere Nipponbare MS00574,MGYA00262215,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+580,ERS1301204,rhizosphere Nipponbare MS00575,MGYA00262216,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+581,ERS1301205,rhizosphere Nipponbare MS00576,MGYA00262217,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+582,ERS1301206,rhizosphere Nipponbare MS00577,MGYA00262218,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+583,ERS1301207,rhizosphere Nipponbare MS00578,MGYA00262219,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+584,ERS1301208,rhizosphere Nipponbare MS00579,MGYA00262220,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+585,ERS1301209,rhizosphere Nipponbare MS00580,MGYA00262221,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+586,ERS1301210,rhizosphere Nipponbare MS00581,MGYA00262222,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+587,ERS1301211,rhizosphere Nipponbare MS00582,MGYA00262223,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+588,ERS1301212,rhizosphere Nipponbare MS00583,MGYA00262224,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+589,ERS1301213,rhizosphere Nipponbare MS00584,MGYA00262225,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+590,ERS1301214,rhizosphere Nipponbare MS00585,MGYA00262226,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+591,ERS1301215,rhizosphere Nipponbare MS00586,MGYA00262227,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+592,ERS1301216,rhizosphere Nipponbare MS00587,MGYA00262228,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+593,ERS1301217,rhizosphere Nipponbare MS00588,MGYA00262229,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+594,ERS1301218,rhizosphere Nipponbare MS00589,MGYA00262230,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+595,ERS1301219,rhizosphere Nipponbare MS00590,MGYA00262231,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+596,ERS1301220,rhizosphere Nipponbare MS00591,MGYA00262232,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+597,ERS1301221,rhizosphere Nipponbare MS00592,MGYA00262233,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+598,ERS1301222,rhizosphere Nipponbare MS00593,MGYA00262234,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+599,ERS1301223,rhizosphere Nipponbare MS00594,MGYA00262235,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+600,ERS1301224,rhizosphere Nipponbare MS00595,MGYA00262236,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+601,ERS1301225,rhizosphere Nipponbare MS00596,MGYA00262237,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+602,ERS1301226,rhizosphere Nipponbare MS00597,MGYA00262238,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+603,ERS1301227,rhizosphere Nipponbare MS00598,MGYA00262239,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+604,ERS1301228,rhizosphere Nipponbare MS00599,MGYA00262240,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+605,ERS1301229,rhizosphere Nipponbare MS00600,MGYA00262241,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+606,ERS1301230,rhizosphere 93-11 MS00601,MGYA00262242,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+607,ERS1301231,rhizosphere 93-11 MS00602,MGYA00262243,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+608,ERS1301232,rhizosphere 93-11 MS00603,MGYA00262244,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+609,ERS1301233,rhizosphere 93-11 MS00604,MGYA00262245,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+610,ERS1301234,rhizosphere 93-11 MS00605,MGYA00262246,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+611,ERS1301235,rhizosphere 93-11 MS00606,MGYA00262247,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+612,ERS1301236,rhizosphere 93-11 MS00607,MGYA00262248,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+613,ERS1301237,rhizosphere 93-11 MS00608,MGYA00262249,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+614,ERS1301238,rhizosphere 93-11 MS00609,MGYA00262250,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+615,ERS1301239,rhizosphere 93-11 MS00610,MGYA00262251,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+616,ERS1301240,rhizosphere kasalath MS00611,MGYA00262252,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+617,ERS1301241,rhizosphere kasalath MS00612,MGYA00262253,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+618,ERS1301242,rhizosphere kasalath MS00613,MGYA00262254,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+619,ERS1301243,rhizosphere kasalath MS00614,MGYA00262255,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+620,ERS1301244,rhizosphere kasalath MS00615,MGYA00262256,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+621,ERS1301245,rhizosphere kasalath MS00616,MGYA00262257,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+622,ERS1301246,rhizosphere kasalath MS00617,MGYA00262258,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+623,ERS1301247,rhizosphere kasalath MS00618,MGYA00262259,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+624,ERS1301248,rhizosphere kasalath MS00619,MGYA00262260,138.937,Japan;GAZ:Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+625,ERS1301249,rhizosphere kasalath MS00620,MGYA00262261,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+626,ERS1301250,rhizosphere W106 MS00621,MGYA00262262,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+627,ERS1301251,rhizosphere W106 MS00622,MGYA00262263,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+628,ERS1301252,rhizosphere W106 MS00623,MGYA00262264,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+629,ERS1301253,rhizosphere W106 MS00624,MGYA00262265,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+630,ERS1301254,rhizosphere W106 MS00625,MGYA00262266,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+631,ERS1301255,rhizosphere W106 MS00626,MGYA00262267,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+632,ERS1301256,rhizosphere W106 MS00627,MGYA00262268,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+633,ERS1301257,rhizosphere W106 MS00628,MGYA00262269,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+634,ERS1301258,rhizosphere W106 MS00629,MGYA00262270,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+635,ERS1301259,rhizosphere W106 MS00630,MGYA00262271,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+636,ERS1301260,rhizosphere W1514 MS00631,MGYA00262272,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+637,ERS1301261,rhizosphere W1514 MS00632,MGYA00262273,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+638,ERS1301262,rhizosphere W1514 MS00633,MGYA00262274,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+639,ERS1301263,rhizosphere W1514 MS00634,MGYA00262275,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+640,ERS1301264,rhizosphere W1514 MS00635,MGYA00262276,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+641,ERS1301265,rhizosphere W1514 MS00636,MGYA00262277,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+642,ERS1301266,rhizosphere W1514 MS00637,MGYA00262278,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+643,ERS1301267,rhizosphere W1514 MS00638,MGYA00262279,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+644,ERS1301268,rhizosphere W1514 MS00639,MGYA00262280,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
+645,ERS1301269,rhizosphere W1514 MS00640,MGYA00262281,138.937,GAZ:Japan;Japan,cropland biome,rice field,rhizosphere,plant-associated,60.0,35.117,Illumina HiSeq 2000,ERC000011,2016-08-19,rice,rice
