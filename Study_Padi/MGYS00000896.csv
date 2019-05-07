@@ -1,0 +1,6 @@
+,ID_Sample,Sample Name,ID_Analyses,geographic location (longitude),"geographic location (country and/or sea,region)",collection date,NCBI sample classification,instrument model,isolation source
+0,SRS811899,CC-OTC,MGYA00044005,20.459293 N 85.93301 E,India: CRRI Experimental farm;Cuttack:Odisha-753006,17-Dec-2013,410658,Illumina MiSeq,rice field; ambient CO2
+1,SRS811900,EC-OTC,MGYA00044008,20.459293 N 85.93301 E,India: CRRI Experimental farm;Cuttack:Odisha-753006,17-Dec-2013,410658,Illumina MiSeq,rice field; elevated CO2
+2,SRS811901,ECT-OTC,MGYA00044006,20.459293 N 85.93301 E,India: CRRI Experimental farm;Cuttack:Odisha-753006,17-Dec-2013,410658,Illumina MiSeq,rice field; elevated CO2 plus elevated temperature
+3,SRS811902,C-Organic,MGYA00044009,20.459293 N 85.93301 E,India: CRRI Experimental farm;Cuttack:Odisha-753006,17-Dec-2013,410658,Illumina MiSeq,rice field; organic control Plot
+4,SRS811903,FYM-Organic,MGYA00044007,20.459293 N 85.93301 E,India: CRRI Experimental farm;Cuttack:Odisha-753006,17-Dec-2013,410658,Illumina MiSeq,rice field; organic FYM Plot
