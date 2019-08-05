@@ -1,0 +1,71 @@
+,ID_Study,ID_Sample,Sample Name,ID_Analyses,Latitude,Longitude,geographic location,environment (biome),depth (m),elevation (masl),pH
+0,MGYS00003963,ERS1474434,qiita_sid_846:846.Fagna24102011Soil12A1,MGYA00353758,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.05,224,
+1,MGYS00003963,ERS1474435,qiita_sid_846:846.Fagna24102011Soil12A2,MGYA00353759,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.15,224,
+2,MGYS00003963,ERS1474436,qiita_sid_846:846.Fagna24102011Soil12A3,MGYA00353760,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.25,224,
+3,MGYS00003963,ERS1474437,qiita_sid_846:846.Fagna24102011Soil12A4,MGYA00353761,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.35,224,
+4,MGYS00003963,ERS1474438,qiita_sid_846:846.Fagna24102011Soil12B1,MGYA00353762,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.05,224,
+5,MGYS00003963,ERS1474439,qiita_sid_846:846.Fagna24102011Soil12B2,MGYA00353763,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.15,224,
+6,MGYS00003963,ERS1474440,qiita_sid_846:846.Fagna24102011Soil12B3,MGYA00353764,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.25,224,
+7,MGYS00003963,ERS1474441,qiita_sid_846:846.Fagna24102011Soil12B4,MGYA00353765,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.35,224,
+8,MGYS00003963,ERS1474442,qiita_sid_846:846.Fagna24102011Soil12C1,MGYA00353766,43.984,11.341,Italy:Tuscany:Fagna,cropland biome,0.05,224,
+9,MGYS00003963,ERS1474443,qiita_sid_846:846.Fagna24102011Soil12C2,MGYA00353767,43.984,11.341,Italy:Tuscany:Fagna,cropland biome,0.15,224,
+10,MGYS00003963,ERS1474444,qiita_sid_846:846.Fagna24102011Soil12C3,MGYA00353768,43.984,11.341,Italy:Tuscany:Fagna,cropland biome,0.25,224,
+11,MGYS00003963,ERS1474445,qiita_sid_846:846.Fagna24102011Soil12C4,MGYA00353769,43.984,11.341,Italy:Tuscany:Fagna,cropland biome,0.35,224,
+12,MGYS00003963,ERS1474446,qiita_sid_846:846.Fagna24102011Soil14A1,MGYA00353770,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.05,224,
+13,MGYS00003963,ERS1474447,qiita_sid_846:846.Fagna24102011Soil14A2,MGYA00353771,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.15,224,
+14,MGYS00003963,ERS1474448,qiita_sid_846:846.Fagna24102011Soil14A3,MGYA00353772,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.25,224,
+15,MGYS00003963,ERS1474449,qiita_sid_846:846.Fagna24102011Soil14A4,MGYA00353773,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.35,224,
+16,MGYS00003963,ERS1474450,qiita_sid_846:846.Fagna24102011Soil14B1,MGYA00353774,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.05,224,
+17,MGYS00003963,ERS1474451,qiita_sid_846:846.Fagna24102011Soil14B2,MGYA00353775,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.15,224,
+18,MGYS00003963,ERS1474452,qiita_sid_846:846.Fagna24102011Soil14B3,MGYA00353776,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.25,224,
+19,MGYS00003963,ERS1474453,qiita_sid_846:846.Fagna24102011Soil14B4,MGYA00353777,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.35,224,
+20,MGYS00003963,ERS1474454,qiita_sid_846:846.Fagna24102011Soil14C1,MGYA00353778,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.05,224,
+21,MGYS00003963,ERS1474455,qiita_sid_846:846.Fagna24102011Soil14C2,MGYA00353779,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.15,224,
+22,MGYS00003963,ERS1474456,qiita_sid_846:846.Fagna24102011Soil14C3,MGYA00353780,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.25,224,
+23,MGYS00003963,ERS1474457,qiita_sid_846:846.Fagna24102011Soil14C4,MGYA00353781,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.35,224,
+24,MGYS00003963,ERS1474458,qiita_sid_846:846.Fagna24102011Soil15A1,MGYA00353782,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.05,224,
+25,MGYS00003963,ERS1474459,qiita_sid_846:846.Fagna24102011Soil15A2,MGYA00353783,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.15,224,
+26,MGYS00003963,ERS1474460,qiita_sid_846:846.Fagna24102011Soil15A3,MGYA00353784,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.25,224,
+27,MGYS00003963,ERS1474461,qiita_sid_846:846.Fagna24102011Soil15A4,MGYA00353785,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.35,224,
+28,MGYS00003963,ERS1474462,qiita_sid_846:846.Fagna24102011Soil15B1,MGYA00353786,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.05,224,
+29,MGYS00003963,ERS1474463,qiita_sid_846:846.Fagna24102011Soil15B2,MGYA00353787,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.15,224,
+30,MGYS00003963,ERS1474464,qiita_sid_846:846.Fagna24102011Soil15B3,MGYA00353788,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.25,224,
+31,MGYS00003963,ERS1474465,qiita_sid_846:846.Fagna24102011Soil15B4,MGYA00353789,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.35,224,
+32,MGYS00003963,ERS1474466,qiita_sid_846:846.Fagna24102011Soil15C1,MGYA00353790,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.05,224,
+33,MGYS00003963,ERS1474467,qiita_sid_846:846.Fagna24102011Soil15C2,MGYA00353791,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.15,224,
+34,MGYS00003963,ERS1474468,qiita_sid_846:846.Fagna24102011Soil15C3,MGYA00353792,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.25,224,
+35,MGYS00003963,ERS1474469,qiita_sid_846:846.Fagna24102011Soil15C4,MGYA00353793,43.984,11.342,Italy:Tuscany:Fagna,cropland biome,0.35,224,
+36,MGYS00003963,ERS1474470,qiita_sid_846:846.Fagna24102011Soil4A1,MGYA00353794,43.985,11.342,Italy:Tuscany:Fagna,cropland biome,0.05,224,
+37,MGYS00003963,ERS1474471,qiita_sid_846:846.Fagna24102011Soil4A2,MGYA00353795,43.985,11.342,Italy:Tuscany:Fagna,cropland biome,0.15,224,
+38,MGYS00003963,ERS1474472,qiita_sid_846:846.Fagna24102011Soil4A3,MGYA00353796,43.985,11.342,Italy:Tuscany:Fagna,cropland biome,0.25,224,
+39,MGYS00003963,ERS1474473,qiita_sid_846:846.Fagna24102011Soil4A4,MGYA00353797,43.985,11.342,Italy:Tuscany:Fagna,cropland biome,0.35,224,
+40,MGYS00003963,ERS1474474,qiita_sid_846:846.Fagna24102011Soil4B1,MGYA00353798,43.985,11.342,Italy:Tuscany:Fagna,cropland biome,0.05,224,
+41,MGYS00003963,ERS1474475,qiita_sid_846:846.Fagna24102011Soil4B2,MGYA00353799,43.985,11.342,Italy:Tuscany:Fagna,cropland biome,0.15,224,
+42,MGYS00003963,ERS1474476,qiita_sid_846:846.Fagna24102011Soil4B3,MGYA00353800,43.985,11.342,Italy:Tuscany:Fagna,cropland biome,0.25,224,
+43,MGYS00003963,ERS1474477,qiita_sid_846:846.Fagna24102011Soil4B4,MGYA00353801,43.985,11.342,Italy:Tuscany:Fagna,cropland biome,0.35,224,
+44,MGYS00003963,ERS1474478,qiita_sid_846:846.Fagna24102011Soil4C1,MGYA00353802,43.985,11.342,Italy:Tuscany:Fagna,cropland biome,0.05,224,
+45,MGYS00003963,ERS1474479,qiita_sid_846:846.Fagna24102011Soil4C2,MGYA00353803,43.985,11.342,Italy:Tuscany:Fagna,cropland biome,0.15,224,
+46,MGYS00003963,ERS1474480,qiita_sid_846:846.Fagna24102011Soil4C3,MGYA00353804,43.985,11.342,Italy:Tuscany:Fagna,cropland biome,0.25,224,
+47,MGYS00003963,ERS1474481,qiita_sid_846:846.Fagna24102011Soil4C4,MGYA00353805,43.985,11.342,Italy:Tuscany:Fagna,cropland biome,0.35,224,
+48,MGYS00001939,ERS1851090,"Rhizosphere soil not exposed to nanosilver, sample 1",MGYA00135095,50.93487,5.411394,Belgium,area of cropland,,46,
+49,MGYS00001939,ERS1851092,"Rhizosphere soil not exposed to nanosilver, sample 3",MGYA00135096,50.93487,5.411394,Belgium,area of cropland,,46,
+50,MGYS00001939,ERS1851091,"Rhizosphere soil not exposed to nanosilver, sample 2",MGYA00135101,50.93487,5.411394,Belgium,area of cropland,,46,
+51,MGYS00000965,SRS647894,RM31,MGYA00046019,19.16,-99.52,"Rosa Morada, Nevado de Toluca, Estado de Mexico, Mexico",Agricultural soil,0.1,3700,5.42
+52,MGYS00000965,SRS647895,RM32,MGYA00046043,19.16,-99.52,"Rosa Morada, Nevado de Toluca, Estado de Mexico, Mexico",Agricultural soil,0.1,3700,5.16
+53,MGYS00000965,SRS647900,RM33,MGYA00046012,19.16,-99.52,"Rosa Morada, Nevado de Toluca, Estado de Mexico, Mexico",Agricultural soil,0.1,3700,4.63
+54,MGYS00000965,SRS647914,RM34,MGYA00046009,19.16,-99.52,"Rosa Morada, Nevado de Toluca, Estado de Mexico, Mexico",Agricultural soil,0.1,3700,4.82
+55,MGYS00000965,SRS647921,RM35,MGYA00046040,19.16,-99.52,"Rosa Morada, Nevado de Toluca, Estado de Mexico, Mexico",Agricultural soil,0.1,3700,4.8
+56,MGYS00000965,SRS647359,CM1,MGYA00046013,19.17,-99.55,"Capulin, Nevado de Toluca, Estado de Mexico, Mexico",Agricultural soil,0.1,3700,4.99
+57,MGYS00000965,SRS647485,CM2,MGYA00046045,19.17,-99.55,"Capulin, Nevado de Toluca, Estado de Mexico, Mexico",Agricultural soil,0.1,3700,5.01
+58,MGYS00000965,SRS647486,CM3,MGYA00046044,19.17,-99.55,"Capulin, Nevado de Toluca, Estado de Mexico, Mexico",Agricultural soil,0.1,3700,6.69
+59,MGYS00000965,SRS647487,CM4,MGYA00046016,19.17,-99.55,"Capulin, Nevado de Toluca, Estado de Mexico, Mexico",Agricultural soil,0.1,3700,6.66
+60,MGYS00000965,SRS647488,CM5,MGYA00046011,19.17,-99.55,"Capulin, Nevado de Toluca, Estado de Mexico, Mexico",Agricultural soil,0.1,3700,4.86
+61,MGYS00000965,SRS647499,DM16,MGYA00046026,19.18,-99.54,"Dilatada, Nevado de Toluca, Estado de Mexico, Mexico",Agricultural soil,0.1,3700,5.83
+62,MGYS00000965,SRS647500,DM17,MGYA00046025,19.18,-99.54,"Dilatada, Nevado de Toluca, Estado de Mexico, Mexico",Agricultural soil,0.1,3700,4.62
+63,MGYS00000965,SRS647501,DM18,MGYA00046028,19.18,-99.54,"Dilatada, Nevado de Toluca, Estado de Mexico, Mexico",Agricultural soil,0.1,3700,5.68
+64,MGYS00000965,SRS647502,DM19,MGYA00046027,19.18,-99.54,"Dilatada, Nevado de Toluca, Estado de Mexico, Mexico",Agricultural soil,0.1,3700,5.82
+65,MGYS00000965,SRS647503,DM20,MGYA00046030,19.18,-99.54,"Dilatada, Nevado de Toluca, Estado de Mexico, Mexico",Agricultural soil,0.1,3700,5.85
+66,MGYS00000962,SRS639749,cornrhizo_summit_peak12,MGYA00045965,41.916667,-93.75,USA,cropland (ENVO:01000245),0.075,323,
+67,MGYS00000962,SRS639750,cornrhizo_toeslope_peak12,MGYA00045978,41.916667,-93.75,USA,cropland (ENVO:01000245),0.075,312,
+68,MGYS00000837,SRS490313,Generic sample from soil_metagenome,MGYA00041620,51.56,9.89,Germany,cropland,0.1,,
+69,MGYS00000837,SRS490314,Generic sample from soil_metagenome,MGYA00041619,51.56,9.89,Germany,cropland,0.1,,

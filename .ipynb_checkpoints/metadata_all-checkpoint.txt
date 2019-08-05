@@ -1,0 +1,27 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	StudyID	SampleID	SampleName	Latitude	Longitude	Geography	Biome	Depth	Elevation	pH	Description
+MGYA00353784	_	_	MGYS00003963	ERS1474460	qiita_sid_846:846.Fagna24102011Soil15A3	43.983999999999995	11.342	Italy:Tuscany:Fagna	cropland biome	0.25	224.0		Corn
+MGYA00353766	_	_	MGYS00003963	ERS1474442	qiita_sid_846:846.Fagna24102011Soil12C1	43.983999999999995	11.341	Italy:Tuscany:Fagna	cropland biome	0.05	224.0		Corn
+MGYA00353785	_	_	MGYS00003963	ERS1474461	qiita_sid_846:846.Fagna24102011Soil15A4	43.983999999999995	11.342	Italy:Tuscany:Fagna	cropland biome	0.35	224.0		Corn
+MGYA00135101	_	_	MGYS00001939	ERS1851091	Rhizosphere soil not exposed to nanosilver, sample 2	50.934870000000004	5.4113940000000005	Belgium	area of cropland		46.0		Corn
+MGYA00135096	_	_	MGYS00001939	ERS1851092	Rhizosphere soil not exposed to nanosilver, sample 3	50.934870000000004	5.4113940000000005	Belgium	area of cropland		46.0		Corn
+MGYA00135095	_	_	MGYS00001939	ERS1851090	Rhizosphere soil not exposed to nanosilver, sample 1	50.934870000000004	5.4113940000000005	Belgium	area of cropland		46.0		Corn
+MGYA00046027	_	_	MGYS00000965	SRS647502	DM19	19.18	-99.54	Dilatada, Nevado de Toluca, Estado de Mexico, Mexico	Agricultural soil	0.1	3700.0	5.82	Corn
+MGYA00046025	_	_	MGYS00000965	SRS647500	DM17	19.18	-99.54	Dilatada, Nevado de Toluca, Estado de Mexico, Mexico	Agricultural soil	0.1	3700.0	4.62	Corn
+MGYA00046028	_	_	MGYS00000965	SRS647501	DM18	19.18	-99.54	Dilatada, Nevado de Toluca, Estado de Mexico, Mexico	Agricultural soil	0.1	3700.0	5.68	Corn
+MGYA00045965	_	_	MGYS00000962	SRS639749	cornrhizo_summit_peak12	41.916667	-93.75	USA	cropland (ENVO:01000245)	0.075	323.0		Corn
+MGYA00045978	_	_	MGYS00000962	SRS639750	cornrhizo_toeslope_peak12	41.916667	-93.75	USA	cropland (ENVO:01000245)	0.075	312.0		Corn
+MGYA00041620	_	_	MGYS00000837	SRS490313	Generic sample from soil_metagenome	51.56	9.89	Germany	cropland	0.1			Corn
+MGYA00041619	_	_	MGYS00000837	SRS490314	Generic sample from soil_metagenome	51.56	9.89	Germany	cropland	0.1			Corn
+MGYA00262056	_	_	MGYS00003673	ERS1301044	rhizosphere kasalath MS00415	35.117	138.937	GAZ:Japan;Japan	cropland biome		60.0		Rice
+MGYA00262105	_	_	MGYS00003673	ERS1301093	rhizosphere 93-11 MS00464	35.117	138.937	GAZ:Japan;Japan	cropland biome		60.0		Rice
+MGYA00262017	_	_	MGYS00003673	ERS1301005	rhizosphere W1514 MS00376	35.117	138.937	GAZ:Japan;Japan	cropland biome		60.0		Rice
+MGYA00051779	_	_	MGYS00001014	SRS691559	RhizosphereSoil4	23.13	113.44	China	Paddy soil				Rice
+MGYA00051763	_	_	MGYS00001014	SRS691564	RhizosphereSoil8	23.13	113.48	China	Paddy soil				Rice
+MGYA00051747	_	_	MGYS00001014	SRS691568	RhizosphereSoil12	23.13	113.52	China	Paddy soil				Rice
+MGYA00044009	_	_	MGYS00000896	SRS811902	C-Organic	20.459293	85.93301	India: CRRI Experimental farm;Cuttack:Odisha-753006					Rice
+MGYA00039424	_	_	MGYS00000765	SRS396882	MIMS Environmental/Metagenome sample from soil metagenome				ENVO:00000446 (terrestrial)	0.125			Rice
+MGYA00039429	_	_	MGYS00000765	SRS396891	MIMS Environmental/Metagenome sample from soil metagenome				ENVO:00000446 (terrestrial)	0.125			Rice
+MGYA00039428	_	_	MGYS00000765	SRS396886	MIMS Environmental/Metagenome sample from soil metagenome				ENVO:00000446 (terrestrial)	0.125			Rice
+MGYA00038973	_	_	MGYS00000744	SRS416342	MIMARKS Survey related sample from Soil metagenome	31.65	119.46667	Jintan, Jiangsu, China	ENVO:00000446	0.1	3.0	7.17	Rice
+MGYA00038958	_	_	MGYS00000744	SRS415085	MIMARKS Survey related sample from Soil metagenome	31.65	119.46667	Jintan, Jiangsu, China	ENVO:00000446	0.1	3.0	6.92	Rice
+MGYA00038959	_	_	MGYS00000744	SRS416335	MIMARKS Survey related sample from Soil metagenome	31.65	119.46667	Jintan, Jiangsu, China	ENVO:00000446	0.1	3.0	7.15	Rice

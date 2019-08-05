@@ -1,0 +1,46 @@
+,ID_Sample,Sample Name,ID_Analyses,geographic location (longitude),"geographic location (country and/or sea,region)",collection date,environment (biome),environment (feature),NCBI sample classification,instrument model,host
+0,SRS691582,FePlaque9,MGYA00051769,23.13 N 113.64 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+1,SRS691583,FePlaque10,MGYA00051770,23.13 N 113.65 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+2,SRS691584,FePlaque11,MGYA00051767,23.13 N 113.66 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+3,SRS691585,FePlaque12,MGYA00051768,23.13 N 113.67 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+4,SRS691586,FePlaque13,MGYA00051774,23.13 N 113.68 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+5,SRS691587,FePlaque14,MGYA00051740,23.13 N 113.69 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+6,SRS691588,FePlaque15,MGYA00051741,23.13 N 113.70 E,China,18-Oct-2012,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+7,SRS690436,BulkSoil1,MGYA00051781,23.13 N 113.26 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+8,SRS690450,BulkSoil2,MGYA00051754,23.13 N 113.27 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+9,SRS690456,BulkSoil3,MGYA00051777,23.13 N 113.28 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+10,SRS691535,BulkSoil4,MGYA00051776,23.13 N 113.29 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+11,SRS691536,BulkSoil5,MGYA00051775,23.13 N 113.30 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+12,SRS691537,BulkSoil6,MGYA00051780,23.13 N 113.31 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+13,SRS691538,BulkSoil7,MGYA00051755,23.13 N 113.32 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+14,SRS691539,BulkSoil8,MGYA00051756,23.13 N 113.33 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+15,SRS691541,BulkSoil9,MGYA00051757,23.13 N 113.34 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX,paddy rice
+16,SRS691544,BulkSoil10,MGYA00051758,23.13 N 113.35 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+17,SRS691545,BulkSoil11,MGYA00051759,23.13 N 113.36 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+18,SRS691546,BulkSoil12,MGYA00051760,23.13 N 113.37 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+19,SRS691547,BulkSoil13,MGYA00051737,23.13 N 113.38 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+20,SRS691548,BulkSoil14,MGYA00051739,23.13 N 113.39 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+21,SRS691549,BulkSoil15,MGYA00051738,23.13 N 113.40 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+22,SRS691552,RhizosphereSoil1,MGYA00051742,23.13 N 113.41 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+23,SRS691555,RhizosphereSoil2,MGYA00051764,23.13 N 113.42 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+24,SRS691556,RhizosphereSoil3,MGYA00051778,23.13 N 113.43 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+25,SRS691559,RhizosphereSoil4,MGYA00051779,23.13 N 113.44 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+26,SRS691561,RhizosphereSoil5,MGYA00051751,23.13 N 113.45 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+27,SRS691562,RhizosphereSoil6,MGYA00051761,23.13 N 113.46 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX,paddy rice
+28,SRS691563,RhizosphereSoil7,MGYA00051762,23.13 N 113.47 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+29,SRS691564,RhizosphereSoil8,MGYA00051763,23.13 N 113.48 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+30,SRS691565,RhizosphereSoil9,MGYA00051765,23.13 N 113.49 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+31,SRS691566,RhizosphereSoil10,MGYA00051766,23.13 N 113.50 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+32,SRS691567,RhizosphereSoil11,MGYA00051748,23.13 N 113.51 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+33,SRS691568,RhizosphereSoil12,MGYA00051747,23.13 N 113.52 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+34,SRS691569,RhizosphereSoil13,MGYA00051750,23.13 N 113.53 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+35,SRS691570,RhizosphereSoil14,MGYA00051749,23.13 N 113.54 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+36,SRS691572,RhizosphereSoil15,MGYA00051744,23.13 N 113.55 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+37,SRS691573,FePlaque1,MGYA00051743,23.13 N 113.56 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+38,SRS691574,FePlaque2,MGYA00051746,23.13 N 113.57 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+39,SRS691575,FePlaque3,MGYA00051745,23.13 N 113.58 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+40,SRS691576,FePlaque4,MGYA00051753,23.13 N 113.59 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+41,SRS691577,FePlaque5,MGYA00051752,23.13 N 113.60 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+42,SRS691578,FePlaque6,MGYA00051772,23.13 N 113.61 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+43,SRS691579,FePlaque7,MGYA00051773,23.13 N 113.62 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice
+44,SRS691580,FePlaque8,MGYA00051771,23.13 N 113.63 E,China,2012-10-18,Paddy soil,Agricultural terrace,1118232,454 GS FLX Titanium,paddy rice

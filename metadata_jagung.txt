@@ -1,0 +1,14 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	StudyID	SampleID	SampleName	Latitude	Longitude	Geography	Biome	Depth	Elevation	pH	Description
+MGYA00353784	_	_	MGYS00003963	ERS1474460	qiita_sid_846:846.Fagna24102011Soil15A3	43.983999999999995	11.342	Italy:Tuscany:Fagna	cropland biome	0.25	224.0		Corn
+MGYA00353766	_	_	MGYS00003963	ERS1474442	qiita_sid_846:846.Fagna24102011Soil12C1	43.983999999999995	11.341	Italy:Tuscany:Fagna	cropland biome	0.05	224.0		Corn
+MGYA00353785	_	_	MGYS00003963	ERS1474461	qiita_sid_846:846.Fagna24102011Soil15A4	43.983999999999995	11.342	Italy:Tuscany:Fagna	cropland biome	0.35	224.0		Corn
+MGYA00135101	_	_	MGYS00001939	ERS1851091	Rhizosphere soil not exposed to nanosilver, sample 2	50.934870000000004	5.4113940000000005	Belgium	area of cropland		46.0		Corn
+MGYA00135096	_	_	MGYS00001939	ERS1851092	Rhizosphere soil not exposed to nanosilver, sample 3	50.934870000000004	5.4113940000000005	Belgium	area of cropland		46.0		Corn
+MGYA00135095	_	_	MGYS00001939	ERS1851090	Rhizosphere soil not exposed to nanosilver, sample 1	50.934870000000004	5.4113940000000005	Belgium	area of cropland		46.0		Corn
+MGYA00046027	_	_	MGYS00000965	SRS647502	DM19	19.18	-99.54	Dilatada, Nevado de Toluca, Estado de Mexico, Mexico	Agricultural soil	0.1	3700.0	5.82	Corn
+MGYA00046025	_	_	MGYS00000965	SRS647500	DM17	19.18	-99.54	Dilatada, Nevado de Toluca, Estado de Mexico, Mexico	Agricultural soil	0.1	3700.0	4.62	Corn
+MGYA00046028	_	_	MGYS00000965	SRS647501	DM18	19.18	-99.54	Dilatada, Nevado de Toluca, Estado de Mexico, Mexico	Agricultural soil	0.1	3700.0	5.68	Corn
+MGYA00045965	_	_	MGYS00000962	SRS639749	cornrhizo_summit_peak12	41.916667	-93.75	USA	cropland (ENVO:01000245)	0.075	323.0		Corn
+MGYA00045978	_	_	MGYS00000962	SRS639750	cornrhizo_toeslope_peak12	41.916667	-93.75	USA	cropland (ENVO:01000245)	0.075	312.0		Corn
+MGYA00041620	_	_	MGYS00000837	SRS490313	Generic sample from soil_metagenome	51.56	9.89	Germany	cropland	0.1			Corn
+MGYA00041619	_	_	MGYS00000837	SRS490314	Generic sample from soil_metagenome	51.56	9.89	Germany	cropland	0.1			Corn

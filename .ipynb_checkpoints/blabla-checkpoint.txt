@@ -1,0 +1,2 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	SampleID	Geography	Description
+MGYA00041622	_	_	SRS490311	Germany	_

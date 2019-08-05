@@ -1,0 +1,14 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	StudyID	SampleID	SampleName	Latitude	Longitude	Geography	Biome	Depth	Elevation	pH	Description
+MGYA00353792	_	_	MGYS00003963	ERS1474468	qiita_sid_846:846.Fagna24102011Soil15C3	43.983999999999995	11.342	Italy:Tuscany:Fagna	cropland biome	0.25	224.0		_
+MGYA00353767	_	_	MGYS00003963	ERS1474443	qiita_sid_846:846.Fagna24102011Soil12C2	43.983999999999995	11.341	Italy:Tuscany:Fagna	cropland biome	0.15	224.0		_
+MGYA00353773	_	_	MGYS00003963	ERS1474449	qiita_sid_846:846.Fagna24102011Soil14A4	43.983999999999995	11.342	Italy:Tuscany:Fagna	cropland biome	0.35	224.0		_
+MGYA00135101	_	_	MGYS00001939	ERS1851091	Rhizosphere soil not exposed to nanosilver, sample 2	50.934870000000004	5.4113940000000005	Belgium	area of cropland		46.0		_
+MGYA00135096	_	_	MGYS00001939	ERS1851092	Rhizosphere soil not exposed to nanosilver, sample 3	50.934870000000004	5.4113940000000005	Belgium	area of cropland		46.0		_
+MGYA00135095	_	_	MGYS00001939	ERS1851090	Rhizosphere soil not exposed to nanosilver, sample 1	50.934870000000004	5.4113940000000005	Belgium	area of cropland		46.0		_
+MGYA00046026	_	_	MGYS00000965	SRS647499	DM16	19.18	-99.54	Dilatada, Nevado de Toluca, Estado de Mexico, Mexico	Agricultural soil	0.1	3700.0	5.83	_
+MGYA00046012	_	_	MGYS00000965	SRS647900	RM33	19.16	-99.52	Rosa Morada, Nevado de Toluca, Estado de Mexico, Mexico	Agricultural soil	0.1	3700.0	4.63	_
+MGYA00046040	_	_	MGYS00000965	SRS647921	RM35	19.16	-99.52	Rosa Morada, Nevado de Toluca, Estado de Mexico, Mexico	Agricultural soil	0.1	3700.0	4.8	_
+MGYA00045965	_	_	MGYS00000962	SRS639749	cornrhizo_summit_peak12	41.916667	-93.75	USA	cropland (ENVO:01000245)	0.075	323.0		_
+MGYA00045978	_	_	MGYS00000962	SRS639750	cornrhizo_toeslope_peak12	41.916667	-93.75	USA	cropland (ENVO:01000245)	0.075	312.0		_
+MGYA00041620	_	_	MGYS00000837	SRS490313	Generic sample from soil_metagenome	51.56	9.89	Germany	cropland	0.1			_
+MGYA00041619	_	_	MGYS00000837	SRS490314	Generic sample from soil_metagenome	51.56	9.89	Germany	cropland	0.1			_
